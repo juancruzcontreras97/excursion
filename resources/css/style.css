@@ -20,9 +20,8 @@ body {
 }
 
 .header--sub-header {
-    font-weight: 300;
-    font-size: 42px;
-    color: #fff;
+    font-size: 21px;
+    color: gray;
 }
 
 /* LINKS */
