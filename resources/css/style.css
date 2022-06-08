@@ -38,3 +38,9 @@ body {
     text-align: right;
     color: gray;
 }
+
+footer {
+    font-size: 21px;
+    text-align: left;
+    color: blue;
+}
